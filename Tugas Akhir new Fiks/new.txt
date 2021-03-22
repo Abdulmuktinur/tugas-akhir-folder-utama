@@ -1,0 +1,43 @@
+Since ERP solutions address all organizational needs it become an important subject which has attracted attention for a research communities as its introduction brings a new culture, cohesion and vigor to the organization. However, the research in this domain is still small relative to the importance of this informational system. However, the research become more mature in the recent years and tried to pinpoint the subject from all sides.
+
+Sejak solusi ERP memenuhi semua kebutuhan organisasi, ini menjadi subjek penting yang telah menarik perhatian komunitas penelitian karena pengenalannya membawa budaya baru, kohesi dan kekuatan ke organisasi. Namun, penelitian dalam domain ini masih relatif kecil dibandingkan dengan pentingnya sistem informasional ini. Namun, penelitian menjadi lebih matang dalam beberapa tahun terakhir dan mencoba untuk menentukan subjek dari semua sisi.
+
+
+ERP represents an important area for research. Researchers still need to further explore these systems. While, they have contributed so much to the field and have covered and treated most of the topics, but we have noticed an enormous decline in this research in recent years contrary to what was expected.
+
+ERP merupakan area penting untuk penelitian. Peneliti masih perlu mendalami lebih jauh sistem tersebut. Sementara, mereka telah memberikan kontribusi begitu banyak ke lapangan dan telah tertutup dan diperlakukan sebagian besar topik, tapi kami telah melihat penurunan besar dalam penelitian ini dalam beberapa tahun terakhir bertentangan dengan apa yang diharapkan.
+
+
+
+Publications used in this paper research were conducted by academics and are quite recent. We chose to do a review of literature between 2010 and 2017 because we noticed that it was necessary to give an overview on the research that has been conducted to ensure a continuity of research that has already been done. Next, we were able to analyze several articles and publications published in the main journals, and have dealt with some problems related to ERP. 
+
+
+Publikasi yang digunakan dalam penelitian makalah ini dilakukan oleh akademisi dan cukup mutakhir. Kami memilih untuk melakukan review literatur antara tahun 2010 dan 2017 karena kami melihat perlu adanya gambaran tentang penelitian yang telah dilakukan untuk memastikan keberlangsungan penelitian yang telah dilakukan. Selanjutnya, kami dapat menganalisis beberapa artikel dan publikasi yang diterbitkan di jurnal utama, dan telah menangani beberapa masalah terkait ERP.
+
+
+This survey gives a general idea on a different area, topics, and issues regarding ERP systems, and is focused on the dynamic subjects in the literature. Our results show that all major research since 2010 is concerned with the same problems and approaches with more attention on those of the implementation. It attempted to treat the subject at the level of organization and management of these systems and is more related to ERP lifecycle, but on the other hand there is a huge lack of research at the technological level. The difficulty of implementation explains the concentration on this strand of research and the lack of desire to delve into other, more technological, subjects.
+
+
+Survei ini memberikan gambaran umum tentang area, topik, dan masalah yang berbeda mengenai sistem ERP, dan difokuskan pada subjek dinamis dalam literatur. Hasil kami menunjukkan bahwa semua penelitian besar sejak 2010 berkaitan dengan masalah dan pendekatan yang sama dengan lebih memperhatikan implementasi. Ini mencoba untuk menangani subjek pada tingkat organisasi dan manajemen sistem ini dan lebih terkait dengan siklus hidup ERP, tetapi di sisi lain terdapat kurangnya penelitian di tingkat teknologi. Kesulitan implementasi menjelaskan konsentrasi pada untaian penelitian ini dan kurangnya keinginan untuk mempelajari subjek lain yang lebih berteknologi.
+
+
+The objective of this review of the literature is to offer an overview and to specify the main features and the various characteristics that punctuate it. This will help direct future research in other areas of investigation related to ERP systems.
+
+
+
+Tujuan dari tinjauan pustaka ini adalah untuk menawarkan gambaran umum dan untuk menentukan fitur-fitur utama dan berbagai karakteristik yang membacanya. Ini akan membantu mengarahkan penelitian masa depan di bidang investigasi lain yang terkait dengan sistem ERP.
+
+
+
+
+
+
+ERP has attracted phenomenal interest in the recent years. Actually, an ERP System is considered as a backbone of most organizations across all the industries. It will usually cover all business functions on all management levels, supporting most or all functional areas in the daily operations of the enterprise, and it is considered as a source of competitive advantage for some organizations, if the system is set up at the right way. However, the chance of failure has always been high. Today, many companies fail to realize the full benefits of ERP systems due to their negligence of some aspects of management and implementation. Finally, the result is either the improvement of the performance or on the contrary a slowdown because of its powerful concept. 
+
+
+ERP telah menarik minat yang fenomenal dalam beberapa tahun terakhir. Sebenarnya, Sistem ERP dianggap sebagai tulang punggung sebagian besar organisasi di semua industri. Ini biasanya akan mencakup semua fungsi bisnis di semua tingkat manajemen, mendukung sebagian besar atau semua area fungsional dalam operasi sehari-hari perusahaan, dan dianggap sebagai sumber keunggulan kompetitif untuk beberapa organisasi, jika sistem diatur dengan cara yang benar. . Namun, peluang kegagalan selalu tinggi. Saat ini, banyak perusahaan gagal menyadari manfaat penuh dari sistem ERP karena kelalaian mereka terhadap beberapa aspek manajemen dan implementasi. Akhirnya, hasilnya adalah baik peningkatan kinerja atau pada perlambatan bertentangan karena konsep yang kuat.
+
+
+To answer that we tried to do a literature review of “the implementation and management of ERP systems”. we have selected a certain number of papers of work published between 2010 and 2017 (1st September) . It seeks to define the general topics, to address some issues related to implementation and management of ERP , and point out overall trends.
+
+Untuk menjawab itu kami mencoba melakukan tinjauan pustaka tentang “implementasi dan pengelolaan sistem ERP”. kami telah memilih sejumlah makalah karya yang diterbitkan antara 2010 dan 2017 (1 September). Ini berusaha untuk menentukan topik yang umum, untuk mengatasi beberapa masalah yang berkaitan dengan pelaksanaan dan pengelolaan ERP, dan menunjukkan tren secara keseluruhan.
