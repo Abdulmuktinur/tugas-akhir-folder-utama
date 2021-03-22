@@ -1,0 +1,11 @@
+Model View Controller 
+
+Model : Berisi Query Basisdata (Data Sistem)
+Viewr : User Interface (Front End)
+Controller : Back end -> fungsi input data
+
+Jenis MVC
+- Server Side MVC = Javascript, Java applet, flash --> User menerima (Thin Client)
+- Mixed client Side and Server Side MVC
+- Rich Internet Application MVC --> Aplikasi web = Aplikasi Dekstop Model di sisi server
+
